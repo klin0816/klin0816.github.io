@@ -1,0 +1,11 @@
+{
+  "name": "klin0816.github.io",
+  "version": "1.0.0",
+  "scripts": {
+  	"build": "bundle exec jekyll serve",
+	"start": "bundel serve"
+  },
+  "repository": "git@github.com:klin0816/klin0816.github.io.git",
+  "author": "klin0816 <klin0816@gmail.com>",
+  "license": "MIT"
+}
